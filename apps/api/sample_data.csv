@@ -1,0 +1,14 @@
+customer_id,name,signup_date,country,age,income,price_text,plan,notes,active
+1001," Alice ",2023-01-15,US,25,45000,"1,200.50",basic,,yes
+1002,bob,2023-02-20,US,34,52000,"2,340.00",premium,,no
+1003,Carol,2023-03-05,UK,,61000,"990.99",,vip,TRUE
+1004,"  Dave",2023-04-11,uk,45,48000,"1,050.25",basic,,Yes
+1005,Eve,2023-05-23,US,29,5000000,"3,400.00",premium,,no
+1006,frank,2023-06-02,CA,38,55000,"760.40",basic,,N
+1007,Grace ,2023-07-19,UK,,47000,"1,890.75",premium,,yes
+1008,Heidi,2023-08-08,US,52,59000,"2,100.10",,vip,no
+1009,Ivan,2023-09-14,CA,41,51000,"640.00",basic,,true
+1010,judy,2023-10-30,US,33,43000,"1,999.99",premium,,no
+1011,Karl,2023-11-12,UK,60,62000,"2,450.00",basic,,yes
+1012,Leo,2023-12-25,US,27,49000,"880.50",premium,,no
+1001," Alice ",2023-01-15,US,25,45000,"1,200.50",basic,,yes
